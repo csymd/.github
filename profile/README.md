@@ -6,8 +6,6 @@ Building rigorous computational systems to model, measure, and understand comple
 
 We work at the intersection of **nonlinear dynamics**, **ML/AI**, **biometrics**, and **reproducible software** — turning dynamical systems theory into usable pipelines that hold up under scrutiny. Methods first. Systems that scale.
 
-[Website](https://csymd.com) · [Google Scholar](https://scholar.google.com/citations?user=ujNjaUoAAAAJ) · [Contact](mailto:ntberry@uncg.edu)
-
 ---
 
 ## Research themes
@@ -44,7 +42,6 @@ Students, visitors, and collaborators are welcome — graduate research, joint s
 
 - **PI**: Nathaniel T. Berry, PhD — [ntberry@uncg.edu](mailto:ntberry@uncg.edu)
 - **Affiliations**: University of North Carolina at Greensboro (UNCG) — School of Education (ILRS); College of Health and Human Sciences (Kinesiology)
-- **LinkedIn**: [nathaniel-t-berry](https://www.linkedin.com/in/nathaniel-t-berry)
 - **Lab site**: [cSYMd.com](https://csymd.com)
 
 ---
