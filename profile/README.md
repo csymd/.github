@@ -17,7 +17,7 @@ We work at the intersection of **nonlinear dynamics**, **ML/AI**, **biometrics**
 | **Load, recovery & multi-source modeling** | Training, wellness, and device time-series integrated into coherent models of load, recovery, and readiness |
 | **Computational systems for dynamics** | Portable, testable analysis kernels and environments — from notebooks to high-assurance stacks |
 
-**Observe → Quantify → Model → Share** — open tools and reproducible code are part of the method, not an afterthought.
+<p align="center"><strong>Observe &emsp;→&emsp; Quantify &emsp;→&emsp; Model &emsp;→&emsp; Share</strong></p>
 
 ---
 
