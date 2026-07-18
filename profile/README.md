@@ -38,7 +38,7 @@ Experimental pipelines that treat language-model revision as a measurable dynami
 
 Students, visitors, and collaborators are welcome — graduate research, joint studies, open-source contribution, or methods that span physiological data and intelligent systems.
 
-- **PI**: Nathaniel T. Berry, PhD — [ntberry@uncg.edu](mailto:ntberry@uncg.edu)
+- **PI**: Nathaniel T. Berry, PhD 
 - **Affiliations**: [University of North Carolina at Greensboro (UNCG)](https://www.uncg.edu)
   - [School of Education (ILRS)](https://soe.uncg.edu/ilrs/)
   - [College of Health and Human Sciences (Kinesiology)](https://kin.uncg.edu/)
