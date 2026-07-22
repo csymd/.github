@@ -24,10 +24,12 @@ We work at the intersection of **nonlinear dynamics**, **ML/AI**, **biometrics**
 ## Selected work
 
 ### [SymWorx](https://github.com/symworx/symworx)
-The **cSYMd** lab is an active contributor the **SymWorx** project — A modular open-source ecosystem for mathematical signal processing and nonlinear dynamics.
+The **cSYMd** lab is an active contributor to the **SymWorx** project — a modular open-source ecosystem for mathematical signal processing and nonlinear dynamics.
+
+`SymWorx` centers on a **single Rust kernel with Python bindings**: one implementation of the core algorithms, callable from research notebooks, production services, and resource-constrained deployments. That design matters because the same verified kernel can serve **data science**, **web**, and **embedded** workflows without re-implementing methods in each language or stack — improving **flexibility**, **reproducibility**, and **security** where results must match across environments and audit paths.
 
 ### Load monitoring & performance metrics
-Frameworks and software for athletic load, readiness, and performance time-series. The primary objective is research clarity with practical measurement in training environments. This work consists of active methods and platform work with athletic and kinesiology partners.
+Frameworks and software for athletic load, readiness, and performance time-series. The primary objective is research clarity with practical measurement in training environments. This work consists of active methods and platform work with athletic and kinesiology partners with the goal of improving actionability of these data.
 
 ### Dynamics of iterative model revision
 Experimental pipelines that treat language-model revision as a measurable dynamical process. We quantify stochasticity and structure in multi-chain revision trajectories with nonlinear tools (e.g., RQA, entropy), and keep the methods open for comparison and validation.
